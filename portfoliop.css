@@ -280,7 +280,7 @@ nav ul li {
 .contact-right button:hover {
   background-color: skyblue;
 }
-.contact-right button a {
+.contact-right button {
   text-decoration: none;
   color: white;
   font-size: 20px;
